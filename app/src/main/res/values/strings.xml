@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pcurd</string>
+    <string-array name="city">
+        <item>Surat</item>
+        <item>Rajkot</item>
+        <item>Ahmendabad</item>
+        <item>Vapi</item>
+    </string-array>
+</resources>
